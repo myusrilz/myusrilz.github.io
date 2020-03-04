@@ -18,3 +18,22 @@ while cek>0.001:
     b+=1
     print("iterasi ke-",iter,"= ",cek)
     iter+=1 
+
+Hasil Jika input = 2
+input Data : 2
+iterasi ke- 1 =  1.0
+iterasi ke- 2 =  4.0
+iterasi ke- 3 =  8.0
+iterasi ke- 4 =  10.666666666666664
+iterasi ke- 5 =  10.666666666666664
+iterasi ke- 6 =  8.533333333333331
+iterasi ke- 7 =  5.68888888888889
+iterasi ke- 8 =  3.2507936507936535
+iterasi ke- 9 =  1.6253968253968267
+iterasi ke- 10 =  0.7223985890652571
+iterasi ke- 11 =  0.28895943562610427
+iterasi ke- 12 =  0.10507615840948858
+iterasi ke- 13 =  0.035025386136496195
+iterasi ke- 14 =  0.010777041888154315
+iterasi ke- 15 =  0.003079154825186947
+iterasi ke- 16 =  0.0008211079533850807
